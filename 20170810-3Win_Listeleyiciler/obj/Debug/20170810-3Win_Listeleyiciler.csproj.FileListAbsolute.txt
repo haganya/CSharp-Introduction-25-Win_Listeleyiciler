@@ -1,0 +1,9 @@
+C:\Users\Echo\OneDrive\Hakan Csharp\20170810-3Win_Listeleyiciler\20170810-3Win_Listeleyiciler\bin\Debug\20170810-3Win_Listeleyiciler.exe.config
+C:\Users\Echo\OneDrive\Hakan Csharp\20170810-3Win_Listeleyiciler\20170810-3Win_Listeleyiciler\bin\Debug\20170810-3Win_Listeleyiciler.exe
+C:\Users\Echo\OneDrive\Hakan Csharp\20170810-3Win_Listeleyiciler\20170810-3Win_Listeleyiciler\bin\Debug\20170810-3Win_Listeleyiciler.pdb
+C:\Users\Echo\OneDrive\Hakan Csharp\20170810-3Win_Listeleyiciler\20170810-3Win_Listeleyiciler\obj\Debug\_20170810_3Win_Listeleyiciler.Form1.resources
+C:\Users\Echo\OneDrive\Hakan Csharp\20170810-3Win_Listeleyiciler\20170810-3Win_Listeleyiciler\obj\Debug\_20170810_3Win_Listeleyiciler.Properties.Resources.resources
+C:\Users\Echo\OneDrive\Hakan Csharp\20170810-3Win_Listeleyiciler\20170810-3Win_Listeleyiciler\obj\Debug\20170810-3Win_Listeleyiciler.csproj.GenerateResource.Cache
+C:\Users\Echo\OneDrive\Hakan Csharp\20170810-3Win_Listeleyiciler\20170810-3Win_Listeleyiciler\obj\Debug\20170810-3Win_Listeleyiciler.exe
+C:\Users\Echo\OneDrive\Hakan Csharp\20170810-3Win_Listeleyiciler\20170810-3Win_Listeleyiciler\obj\Debug\20170810-3Win_Listeleyiciler.pdb
+C:\Users\Echo\OneDrive\Hakan Csharp\20170810-3Win_Listeleyiciler\20170810-3Win_Listeleyiciler\obj\Debug\20170810-3Win_Listeleyiciler.csprojResolveAssemblyReference.cache
